@@ -1,6 +1,3 @@
-### 📄 `.github/copilot-instructions.md`
-
-```markdown
 # 🧠 Copilot Instructions for Spell Checker Project
 
 ## 🎯 Project Goal
